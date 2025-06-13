@@ -1,8 +1,7 @@
 # Ignore all node_modules folders in all subdirectories
 **/node_modules/
 
-# Ignore all .env files (sensitive environment variables)
-**/.env
+
 
 # Ignore lock files if you want to avoid lockfile conflicts (optional)
 **/package-lock.json
